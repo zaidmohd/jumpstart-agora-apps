@@ -20,7 +20,7 @@ spec:
   values:
     acr_name: agacr780c0
     branch_name: "staging"
-    image_tag: v1.0
+    image_tag: v1.1
     github_User: zaidmohd
     postgres:
       username: "postgres"
